@@ -10,5 +10,5 @@ You can put the .txt file in the books folder for convenience.
 **python3 main.py <path_to_book>**
 
 ### 🍭 Misc 🍭
-This is also the first project of Boot.dev
-[Boot.dev Profile](https://www.boot.dev/u/snowy420)
+This is also the first project of **Boot.dev**.
+[My Boot.dev Profile]([https://www.boot.dev/u/snowy420](https://www.boot.dev/u/snowydev47))
